@@ -1,0 +1,184 @@
+﻿@using System.Data
+@{
+
+    Layout = "~/Views/_LayoutDistributor.cshtml";
+    ViewBag.Title = "Detail";
+
+    WebApplication9.Models.Store s = (WebApplication9.Models.Store)ViewBag.StoreUpdate;
+    //this is viewbag . as there can be only one model in a view we will use a viewbag.
+
+    // DataTable dt = ViewBag.ServiceTypeDetail;//for dropdown
+    // DataTable dt2 = ViewBag.ServiceProviderList;//for table
+
+    // we can also use datatable
+    DataTable dtDistributors = ViewBag.dtDistributors;
+
+}
+
+<!--First part i.e Form-->
+
+<div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+            <h2>Store Detail <small>Create Store</small></h2>
+            <ul class="nav navbar-right panel_toolbox">
+                <li>
+                    <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li>
+                            <a href="#">Settings 1</a>
+                        </li>
+                        <li>
+                            <a href="#">Settings 2</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a class="close-link"><i class="fa fa-close"></i></a>
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <br />
+            <form id="demo-form2" data-parsley-validate class="form-horizontal form-label-left" action="/Distributor/StoreDetail" method="post" enctype="multipart/form-data">
+
+                <!--
+          enctype="multipart/form-data" must be used when there is attribute for a file upload.
+         by default it is text/plain.
+
+          for info regarding the enctype visit :
+        http://html.com/attributes/form-enctype/
+         and also see the answers on stackoverflow.
+
+         -->
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                        Name <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" value="@s.Name" name="Name" required="required" class="form-control col-md-7 col-xs-12">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                        Mobile <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" value="@s.Mobile" name="Mobile" required="required" class="form-control col-md-7 col-xs-12">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                        Address <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" value="@s.Address" name="Address" required="required" class="form-control col-md-7 col-xs-12">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                        Username <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" value="@s.Username" name="Username" required="required" class="form-control col-md-7 col-xs-12">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                        Password <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" value="Password" name="Password" required="required" class="form-control col-md-7 col-xs-12">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                        Photo <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+
+                        <input class="input-xlarge focused" type="file" name="Photo">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                        DistributorID <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.DropDownList("DistributorID", new SelectList(dtDistributors.DefaultView, "DistributorID", "Name", @s.DistributorID), new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                        Store Name <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" value="@s.StoreName" name="StoreName" required="required" class="form-control col-md-7 col-xs-12">
+                    </div>
+                </div>
+
+                <div class="ln_solid"></div>
+                <div class="form-group">
+                    <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+
+                        
+                            @if (s.Name != null && s.Name.Length > 0)
+
+                            {
+
+                                <button type="submit" class="btn btn-success"> Edit Details </button>
+
+                            }
+                            else
+                            {  <button type="submit" class="btn btn-success"> Create Store Account </button>
+
+
+                            }
+
+
+
+                            <button type="submit" class="btn btn-primary">Reset</button>
+                        </div>
+                    </div>
+                </div>
+                <!--
+        <div class="form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Store Name">
+                CreateDate <span class="required">*</span>
+            </label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                <input type="text" value="@s.CreateDate" name="CreateDdate" required="required" class="form-control col-md-7 col-xs-12">
+            </div>
+        </div>
+
+        <div class="ln_solid"></div>
+        <div class="form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                <!--<button type="submit" class="btn btn-primary">Cancel</button>-->
+                <!-- hidden value Passing ID-->
+                <input type="hidden" name="StoreID" value="@s.StoreID" />
+
+            </form>
+
+</div>
+    </div>
+</div>
+
+
+
+
+
+
+

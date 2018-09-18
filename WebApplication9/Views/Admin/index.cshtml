@@ -1,0 +1,13 @@
+﻿@using WebApplication9.Models
+@{
+    ViewBag.Title = "index";
+    Layout = "~/Views/_layoutAdmin.cshtml";
+
+
+    Staff s = (Staff)Session["Staff"];
+
+}
+
+<h2>index</h2>
+ WELCOME @s.Name
+

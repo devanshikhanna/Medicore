@@ -1,0 +1,89 @@
+﻿
+@{
+    ViewBag.Title = "DemandReportSearch";
+    Layout = "~/Views/_LayoutDistributor.cshtml";
+}
+
+
+@using System.Data
+@{
+    WebApplication9.Models.DemandReport d = (WebApplication9.Models.DemandReport)ViewBag.DemandReportUpdate;
+}
+
+<div class="span12" id="content">
+    <div class="row-fluid">
+
+        <!-- block -->
+        <div class="block">
+            <div class="navbar navbar-inner block-header">
+                <div class="muted pull-left">DemandReport Search</div>
+                <div class="pull-right">
+                    <span class="badge badge-info"></span>
+                </div>
+            </div>
+            <div class="block-content collapse in">
+                <div class="span12">
+                    <form class="form-horizontal" method="post" action="/Distributor/DemandReportSearch" enctype="multipart/form-data">
+                        <fieldset>
+                            <!--
+                            <div class="control-group">
+                                <label class="control-label" for="focusedInput">Status</label>
+                                <div class="controls">
+                                    <select name="Status">
+                                        <option value="SUBMITTED">SUBMITTED</option>
+                                        <option value="ACCEPTED">ACCEPTED</option>
+                                        <option value="SHIPPED">SHIPPED</option>
+                                        <option value="DELIVERED">DELIVERED</option>
+                                    </select>
+                                </div>
+                            </div>
+                                -->
+                            <div class="control-group">
+                                <label class="control-label" for="focusedInput">Date From</label>
+                                <div class="controls">
+                                    <input class="input-xlarge focused" id="focusedInput" type="text" name="From" value="@ViewBag.From" />
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label" for="focusedInput">Date To</label>
+                                <div class="controls">
+                                    <input class="input-xlarge focused" id="focusedInput" type="text" name="To" value="@ViewBag.To" />
+                                </div>
+                            </div>
+                            <div class="form-actions">
+                                <input type="submit" class="btn btn-primary" value="Search" />
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+            <div class="block-content collapse in">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>DistributorID</th>
+                            <th>Create Date</th>
+                            <th>Details</th>
+                            <th>Status</th>
+                    </thead>
+                    <tbody>
+                        @for (int i = 0; i < Model.Rows.Count; i++)
+                        {
+                            <tr>
+                                <td>@Model.Rows[i]["DistributorID"]</td>
+                                <td>@( Convert.ToDateTime(Model.Rows[i]["CreateDate"]).ToString("dd-MM-yyyy") )</td>
+                                <td>@Model.Rows[i]["Details"]</td>
+                                <td>@Model.Rows[i]["Status"]</td>
+                                
+                            
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- /block -->
+        </div>
+    </div>
+</div>

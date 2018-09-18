@@ -1,0 +1,345 @@
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\WebApplication9.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Antlr3.Runtime.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\EntityFramework.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Web.Infrastructure.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Newtonsoft.Json.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Owin.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.Helpers.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.Mvc.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.Optimization.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.Razor.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.WebPages.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\WebGrease.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.Helpers.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.Mvc.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.Optimization.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.Razor.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.WebPages.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Antlr3.Runtime.pdb
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Newtonsoft.Json.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\EntityFramework.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+D:\backup\DISHA\DISHA PD\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+G:\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+G:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+G:\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+G:\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+G:\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+G:\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+G:\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+G:\WebApplication9\WebApplication9\bin\WebApplication9.dll
+G:\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+G:\WebApplication9\WebApplication9\bin\Antlr3.Runtime.dll
+G:\WebApplication9\WebApplication9\bin\EntityFramework.dll
+G:\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.Web.Infrastructure.dll
+G:\WebApplication9\WebApplication9\bin\Newtonsoft.Json.dll
+G:\WebApplication9\WebApplication9\bin\Owin.dll
+G:\WebApplication9\WebApplication9\bin\System.Web.Helpers.dll
+G:\WebApplication9\WebApplication9\bin\System.Web.Mvc.dll
+G:\WebApplication9\WebApplication9\bin\System.Web.Optimization.dll
+G:\WebApplication9\WebApplication9\bin\System.Web.Razor.dll
+G:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.dll
+G:\WebApplication9\WebApplication9\bin\System.Web.WebPages.dll
+G:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.dll
+G:\WebApplication9\WebApplication9\bin\WebGrease.dll
+G:\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WebApplication9\WebApplication9\bin\System.Web.Helpers.xml
+G:\WebApplication9\WebApplication9\bin\System.Web.Mvc.xml
+G:\WebApplication9\WebApplication9\bin\System.Web.Optimization.xml
+G:\WebApplication9\WebApplication9\bin\System.Web.Razor.xml
+G:\WebApplication9\WebApplication9\bin\System.Web.WebPages.xml
+G:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.xml
+G:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.xml
+G:\WebApplication9\WebApplication9\bin\Antlr3.Runtime.pdb
+G:\WebApplication9\WebApplication9\bin\Newtonsoft.Json.xml
+G:\WebApplication9\WebApplication9\bin\EntityFramework.xml
+G:\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.xml
+G:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+G:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+G:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+E:\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+E:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+E:\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+E:\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+E:\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+E:\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+E:\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+E:\WebApplication9\WebApplication9\bin\WebApplication9.dll
+E:\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+E:\WebApplication9\WebApplication9\bin\Antlr3.Runtime.dll
+E:\WebApplication9\WebApplication9\bin\EntityFramework.dll
+E:\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.Web.Infrastructure.dll
+E:\WebApplication9\WebApplication9\bin\Newtonsoft.Json.dll
+E:\WebApplication9\WebApplication9\bin\Owin.dll
+E:\WebApplication9\WebApplication9\bin\System.Web.Helpers.dll
+E:\WebApplication9\WebApplication9\bin\System.Web.Mvc.dll
+E:\WebApplication9\WebApplication9\bin\System.Web.Optimization.dll
+E:\WebApplication9\WebApplication9\bin\System.Web.Razor.dll
+E:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.dll
+E:\WebApplication9\WebApplication9\bin\System.Web.WebPages.dll
+E:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.dll
+E:\WebApplication9\WebApplication9\bin\WebGrease.dll
+E:\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebApplication9\WebApplication9\bin\System.Web.Helpers.xml
+E:\WebApplication9\WebApplication9\bin\System.Web.Mvc.xml
+E:\WebApplication9\WebApplication9\bin\System.Web.Optimization.xml
+E:\WebApplication9\WebApplication9\bin\System.Web.Razor.xml
+E:\WebApplication9\WebApplication9\bin\System.Web.WebPages.xml
+E:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.xml
+E:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.xml
+E:\WebApplication9\WebApplication9\bin\Antlr3.Runtime.pdb
+E:\WebApplication9\WebApplication9\bin\Newtonsoft.Json.xml
+E:\WebApplication9\WebApplication9\bin\EntityFramework.xml
+E:\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.xml
+E:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+E:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+E:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+D:\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+D:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+D:\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+D:\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+D:\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+D:\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+D:\WebApplication9\WebApplication9\bin\WebApplication9.dll
+D:\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+D:\WebApplication9\WebApplication9\bin\Antlr3.Runtime.dll
+D:\WebApplication9\WebApplication9\bin\EntityFramework.dll
+D:\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.Web.Infrastructure.dll
+D:\WebApplication9\WebApplication9\bin\Newtonsoft.Json.dll
+D:\WebApplication9\WebApplication9\bin\Owin.dll
+D:\WebApplication9\WebApplication9\bin\System.Web.Helpers.dll
+D:\WebApplication9\WebApplication9\bin\System.Web.Mvc.dll
+D:\WebApplication9\WebApplication9\bin\System.Web.Optimization.dll
+D:\WebApplication9\WebApplication9\bin\System.Web.Razor.dll
+D:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.dll
+D:\WebApplication9\WebApplication9\bin\System.Web.WebPages.dll
+D:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.dll
+D:\WebApplication9\WebApplication9\bin\WebGrease.dll
+D:\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebApplication9\WebApplication9\bin\Newtonsoft.Json.xml
+D:\WebApplication9\WebApplication9\bin\System.Web.Helpers.xml
+D:\WebApplication9\WebApplication9\bin\System.Web.Mvc.xml
+D:\WebApplication9\WebApplication9\bin\System.Web.Optimization.xml
+D:\WebApplication9\WebApplication9\bin\System.Web.Razor.xml
+D:\WebApplication9\WebApplication9\bin\System.Web.WebPages.xml
+D:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.xml
+D:\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.xml
+D:\WebApplication9\WebApplication9\bin\Antlr3.Runtime.pdb
+D:\WebApplication9\WebApplication9\bin\EntityFramework.xml
+D:\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.xml
+D:\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+D:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+D:\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\csc.exe
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\vbc.exe
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\WebApplication9.dll.config
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\WebApplication9.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Antlr3.Runtime.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\EntityFramework.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Newtonsoft.Json.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Owin.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.Helpers.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.Mvc.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.Optimization.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.Razor.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.WebPages.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\WebGrease.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Newtonsoft.Json.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.Helpers.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.Mvc.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.Optimization.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.Razor.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.WebPages.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.WebPages.Deployment.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\System.Web.WebPages.Razor.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Antlr3.Runtime.pdb
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\EntityFramework.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\EntityFramework.SqlServer.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+C:\Users\h p\Desktop\project\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb

@@ -1,0 +1,156 @@
+﻿@using System.Data
+
+
+@{
+
+    Layout = "~/Views/_LayoutDistributor.cshtml";
+    ViewBag.Title = "Detail";
+
+    WebApplication9.Models.Supply S  = (WebApplication9.Models.Supply)ViewBag.SupplyUpdate;
+    
+
+    DataTable dtSalesman = ViewBag.dtSalesman;
+    DataTable dtStore = ViewBag.dtStore;
+    DataTable dtProduct = ViewBag.dtProduct;
+
+
+}
+
+<!--First part i.e Form
+    
+    -->
+
+<div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="x_panel">
+        <div class="x_title">
+            <h2>Supply Detail <small>Create Supply</small></h2>
+            <ul class="nav navbar-right panel_toolbox">
+                <li>
+                    <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                    <ul class="dropdown-menu" role="menu">
+                        <li>
+                            <a href="#">Settings 1</a>
+                        </li>
+                        <li>
+                            <a href="#">Settings 2</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a class="close-link"><i class="fa fa-close"></i></a>
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+        <div class="x_content">
+            <br />
+            <form id="demo-form2" data-parsley-validate class="form-horizontal form-label-left" action="/Distributor/SupplyDetail" method="post" enctype="multipart/form-data">
+
+                <!--
+                  enctype="multipart/form-data" must be used when there is attribute for a file upload.
+                 by default it is text/plain.
+
+                  for info regarding the enctype visit :
+                http://html.com/attributes/form-enctype/
+                 and also see the answers on stackoverflow.
+
+                 -->
+
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Supply Name">
+                        Salesman ID <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.DropDownList("SalesmanID", new SelectList(dtSalesman.DefaultView, "SalesmanID", "Name", @S.SalesmanID), new { @class = "form-control" })
+                    </div>
+                </div>
+
+              
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Supply Name">
+                        Store ID <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.DropDownList("StoreID", new SelectList(dtStore.DefaultView, "StoreID", "Name", @S.StoreID), new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Supply Name">
+                        Product ID <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        @Html.DropDownList("ProductID", new SelectList(dtProduct.DefaultView, "ProductID", "Name", @S.ProductID), new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <!--
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="DemandReport Name">
+                        CreateDate <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" value="S.CreateDate" name="CreateDdate" required="required" class="form-control col-md-7 col-xs-12">
+                    </div>
+                </div>
+                    -->
+
+                <div class="form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Supply Name">
+                        Quantity <span class="required">*</span>
+                    </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" value="@S.Quantity" name="Quantity" required="required" class="form-control col-md-7 col-xs-12">
+                    </div>
+                </div>
+
+
+               
+
+                 <div class="form-group">
+            <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Supply Name">
+                Status <span class="required">*</span>
+            </label>
+            <div class="col-md-6 col-sm-6 col-xs-12">
+                   <select name="Status" class="form-control">
+                       <option value="PENDING">PENDING</option>
+                       <option value="DELIVERED">DELIVERED</option>
+
+                   </select>
+            
+            
+             </div>
+        </div>
+
+     
+                   <div class="ln_solid"></div>
+        <div class="form-group">
+            <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                <!--<button type="submit" class="btn btn-primary">Cancel</button>-->
+
+                <button type="submit" class="btn btn-success">Add New Supply</button>
+                <button type="submit" class="btn btn-primary">Reset</button>
+            </div>
+        </div>
+
+        <!-- hidden value Passing ID-->
+        <input type="hidden" name="SupplyID" value="@S.SupplyID" />
+
+        </form>
+    </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+

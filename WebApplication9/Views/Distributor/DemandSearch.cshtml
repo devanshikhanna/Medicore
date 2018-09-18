@@ -1,0 +1,99 @@
+﻿
+@{
+    ViewBag.Title = "DemandSearch";
+}
+
+@{
+    
+    Layout = "~/Views/_LayoutDistributor.cshtml";
+}
+
+
+@using System.Data
+@{
+    WebApplication9.Models.Demand d = (WebApplication9.Models.Demand)ViewBag.DemandUpdate;
+}
+
+<div class="span12" id="content">
+    <div class="row-fluid">
+
+        <!-- block -->
+        <div class="block">
+            <div class="navbar navbar-inner block-header">
+                <div class="muted pull-left">Demand Search</div>
+                <div class="pull-right">
+                    <span class="badge badge-info"></span>
+                </div>
+            </div>
+            <div class="block-content collapse in">
+                <div class="span12">
+                    <form class="form-horizontal" method="post" action="/Distributor/DemandSearch" enctype="multipart/form-data">
+                        <fieldset>
+                            <div class="control-group">
+                                <label class="control-label" for="focusedInput">Status</label>
+                                <div class="controls">
+                                    <select name="Status">
+                                        <option value="SUBMITTED">SUBMITTED</option>
+                                        <option value="ACCEPTED">ACCEPTED</option>
+                                        <option value="SHIPPED">SHIPPED</option>
+                                        <option value="DELIVERED">DELIVERED</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label" for="focusedInput">Date From</label>
+                                <div class="controls">
+                                    <input class="input-xlarge focused" id="focusedInput" type="text" name="From" value="@ViewBag.From" />
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label class="control-label" for="focusedInput">Date To</label>
+                                <div class="controls">
+                                    <input class="input-xlarge focused" id="focusedInput" type="text" name="To" value="@ViewBag.To" />
+                                </div>
+                            </div>
+                            <div class="form-actions">
+                                <input type="submit" class="btn btn-primary" value="Search" />
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+            <div class="block-content collapse in">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>StoreName</th>
+                            <th>Create Date</th>
+                            <th>Status</th>
+                            <th>DemandReportID</th>
+                            <th>Quantity</th>
+                            <th>Price</th>
+                            <th>ProductName</th>
+                            
+                    </thead>
+                    <tbody>
+                        @for (int i = 0; i < Model.Rows.Count; i++)
+                        {
+                            <tr>
+                                <td>@Model.Rows[i]["StoreName"]</td>
+                                <td>@( Convert.ToDateTime(Model.Rows[i]["CreateDate"]).ToString("dd-MM-yyyy") )</td>
+                                <td>@Model.Rows[i]["Status"]</td>
+                                <td>@Model.Rows[i]["DemandReportID"]</td>
+                                <td>@Model.Rows[i]["Quantity"]</td>
+                                <td>@Model.Rows[i]["Price"]</td>
+                                <td>@Model.Rows[i]["ProductName"]</td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- /block -->
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,111 @@
+﻿
+@{
+    ViewBag.Title = "PaymentSearch";
+}
+
+
+@{
+
+    Layout = "~/Views/_LayoutDistributor.cshtml";
+}
+
+
+@using System.Data
+@{
+
+    DataTable dtSalesman = ViewBag.dtSalesman;
+    DataTable dtStore = ViewBag.dtStore;
+}
+
+<div class="span12" id="content">
+    <div class="row-fluid">
+
+        <!-- block -->
+        <div class="block">
+            <div class="navbar navbar-inner block-header">
+                <div class="muted pull-left">Payment Search</div>
+                <div class="pull-right">
+                    <span class="badge badge-info"></span>
+                </div>
+            </div>
+            <div class="block-content collapse in">
+                <div class="span12">
+                    <form class="form-horizontal" method="post" action="/Distributor/PaymentSearch" enctype="multipart/form-data">
+                        <fieldset>
+                            
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Payment Name">
+                                    StoreID <span class="required">*</span>
+                                </label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    @Html.DropDownList("StoreID", new SelectList(dtStore.DefaultView, "StoreID", "Name", ViewBag.StoreID), new { @class = "form-control" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="Payment Name">
+                                    SalesmanID <span class="required">*</span>
+                                </label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    @Html.DropDownList("SalesmanID", new SelectList(dtSalesman.DefaultView, "SalesmanID", "Name", ViewBag.SalesmanID), new { @class = "form-control" })
+                                </div>
+                            </div>
+
+
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="focusedInput">Date From</label>
+                                <div class="controls">
+                                    <input class="input-xlarge focused" id="focusedInput" type="text" name="From" value="@ViewBag.From" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12" for="focusedInput">Date To</label>
+                                <div class="controls">
+                                    <input class="input-xlarge focused" id="focusedInput" type="text" name="To" value="@ViewBag.To" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                                    <input type="submit" class="btn btn-primary" value="Search" />
+                                </div>
+                                </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+            <div class="block-content collapse in">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>StoreName</th>
+                            <th>Create Date</th>
+                            <th>Amount</th>
+                            <th>SalesmanName</th>
+
+                    </thead>
+                    <tbody>
+                        @for (int i = 0; i < Model.Rows.Count; i++)
+                        {
+                            <tr>
+                                <td>@Model.Rows[i]["StoreName"]</td>
+                                <td>@( Convert.ToDateTime(Model.Rows[i]["CreateDate"]).ToString("dd-MM-yyyy") )</td>
+                                
+                                <td>@Model.Rows[i]["Amount"]</td>
+                               
+                                <td>@Model.Rows[i]["SalesmanName"]</td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- /block -->
+        </div>
+    </div>
+</div>
+
+
+
+
